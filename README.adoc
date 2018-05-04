@@ -2,7 +2,7 @@
 
 IMPORTANT: While you can run and interact with this booster on localhost, you cannot take advantage of using externalized configuration with this booster without using OpenShift. For more details on using this booster with a single-node OpenShift cluster, CI/CD deployments, as well as the rest of the runtime, see the link:http://appdev.openshift.io/docs/vertx-runtime.html[Eclipse Vert.x Runtime Guide].
 
-00IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater. This is one more change
+IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater. This is one more change
 
 IMPORTANT: As part of the process of creating this booster, developers.redhat.com/launch or the Fabric8 Launcher tool set up a project with a CI/CD deployment of this booster. You can see the status of this deployment in your Single-node OpenShift Cluster or OpenShift Online Web Console.
 
