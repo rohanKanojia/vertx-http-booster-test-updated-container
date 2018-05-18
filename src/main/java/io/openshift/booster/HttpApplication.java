@@ -53,6 +53,8 @@ public class HttpApplication extends AbstractVerticle {
 
             });
 
+
+
         // It should use the retrieve.listen method, however it does not catch the deletion of the config map.
         // https://github.com/vert-x3/vertx-config/issues/7
         vertx.setPeriodic(2000, l -> {
