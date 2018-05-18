@@ -50,6 +50,7 @@ public class HttpApplication extends AbstractVerticle {
                         // default to 8080.
                         config().getInteger("http.port", 8080));
 
+
             });
 
         // It should use the retrieve.listen method, however it does not catch the deletion of the config map.
